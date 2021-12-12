@@ -1,0 +1,21 @@
+{
+  "name": "YourPluginName",
+  "slug": "yourpluginslug",
+  "author": "<a href='https://yoursite.com/'>SpamKill</a>",
+  "author_profile": "https://yoursite.com/",
+  "version": "1.1.0",
+  "download_url": "https://s3bucket.address/plugin_name.zip",
+  "requires": "3.0",
+  "tested": "5.8",
+  "requires_php": "5.3",
+  "last_updated": "2021-12-12 00:00:00",
+  "sections": {
+    "description": "This is the description about the plugin should be placed.",
+    "installation": "Click the activate button now. Or any other installation instructions go here.",
+    "changelog": "<h4>1.1.0 –  28 November 2021</h4><ul><li>Added Feature X.</li><li>Automattic updates.</li></li><li>Long list of changes to Your Plugin.</li></ul>"
+  },
+  "banners": {
+    "low": "https://picsum.photos/seed/picsum/772/250",
+    "high": "https://picsum.photos/seed/picsum/1544/500"
+  }
+}
